@@ -1335,7 +1335,7 @@ CharacterController:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Height: 2
+  m_Height: 3
   m_Radius: 0.5
   m_SlopeLimit: 45
   m_StepOffset: 0.3
@@ -1627,7 +1627,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1624620977}
+  m_Mesh: {fileID: 846873430}
 --- !u!33 &859301327
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -2875,7 +2875,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 94033271}
+  m_Mesh: {fileID: 1721146720}
 --- !u!33 &2102636895
 MeshFilter:
   m_ObjectHideFlags: 10
